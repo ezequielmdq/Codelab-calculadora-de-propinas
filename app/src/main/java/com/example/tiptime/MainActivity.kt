@@ -62,7 +62,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//dtgds
 @Composable
 fun TipTimeLayout() {
     var amountInput by remember { mutableStateOf("") }
